@@ -62,3 +62,105 @@ span{
    padding: 10px 20px;
    border-radius:8px ;
 }
+/* 2 секція */
+.koko{
+    padding: 99px 0;
+}
+.koko-container{
+    display: flex;
+    gap: 107px ;
+}
+.koko-subtitle{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-size: 19px;
+    padding-bottom: 28px;
+}
+.koko-span{
+ font-size: 38px;
+ line-height: 24px;
+ width:74px ;
+ height: 74px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: #EBA789;
+ border-radius: 100%;
+
+}
+.koko-title{
+    font-size: 35px;
+    line-height: 45.63px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.koko-text{
+    font-size: 14px;
+    line-height: 22.08px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding-bottom: 35px;
+}
+.koko-link{
+    color: black;
+    display: inline-block;
+    background-color:#EBA789;
+   font-size: 16px;
+   line-height: 22.08px;
+   padding: 10px 20px;
+   border-radius:8px ;
+}
+.koko-img{
+ width: 518;
+ height: 500;
+  padding-left: 69px;
+ padding-right: 50px;
+}
+.viana{
+    padding: 99px 0;
+}
+.viana-container{
+    display: flex;
+    gap: 107px ;
+}
+.viana-subtitle{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-size: 19px;
+    padding-bottom: 28px;
+}
+.viana-span{
+ font-size: 38px;
+ line-height: 24px;
+ width:74px ;
+ height: 74px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: #96DBC6;
+ border-radius: 100%;
+}
+.viana-title{
+    font-size: 35px;
+    line-height: 45.63px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.viana-text{
+    font-size: 14px;
+    line-height: 22.08px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding-bottom: 35px;
+}
+.viana-link{
+    color: black;
+    display: inline-block;
+   background: #96DBC6;
+   font-size: 16px;
+   line-height: 22.08px;
+   padding: 10px 20px;
+   border-radius:8px ;
+}
